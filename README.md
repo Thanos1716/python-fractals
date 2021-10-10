@@ -1,1 +1,2 @@
-# python-fractals
+## Python Fractals
+![1024, 0 018518518518518517, 0 38864583333333347, -0 36365740740740743](https://user-images.githubusercontent.com/80975570/136715608-8905f725-4529-4a48-94ff-eabf95887049.png)
